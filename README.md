@@ -11,7 +11,7 @@
 ## Table of Contents
 1. [Overview](#overview )
 2. [Data]( #data)
-3. [Analysis / Insights](#analysis/insights)
+3. [Analysis/Insights](#analysis/insights)
 4. [Recommendations](#recommendations)
 5. [Dashboard](#dashboard)
 
