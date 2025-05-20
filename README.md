@@ -45,7 +45,7 @@ The Los Angeles Police Department (LAPD) crime data consists of over 1,000,000 e
 - **LON:** Longitude of the location of incident 
 
 
-# **Analysis / Insights**
+# **Analysis/Insights**
 
 *Detailed EDA can be found [here](https://colab.research.google.com/drive/1xm1F9zblT_s36AuU4-ga8ZRcItl-V62K?usp=sharing) 
 
