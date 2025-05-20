@@ -65,7 +65,7 @@ There are 7 vehicle related crimes involving a parked motor vehicle, sedans and 
 ##  **2. How common are vehicle related crimes in Los Angeles?**
 
 ### fig. A
-![piechart](donutplt 4.svg)
+![piechart](donutplt4.svg)
 *Percentage of vehicle related crimes to all other crimes*
 
 ### fig. B
@@ -80,7 +80,7 @@ There are 7 vehicle related crimes involving a parked motor vehicle, sedans and 
 
 
 ## **3. Where are the least/most safe areas to park a car?**
-![VRC](Vehicle Related Crimes by AREA.svg)
+![VRC](VehicleRelatedCrimesbyAREA.svg)
 *total records of all vehicle related crimes by area (Descending)*
 
 | 5 - Number Summary | Total Records |
@@ -101,11 +101,11 @@ There are 7 vehicle related crimes involving a parked motor vehicle, sedans and 
 
 ### A. Vehicle Related Crimes - (Daily/ Hourly)
 
-![vrctime](VRC_bytime 3.svg)
+![vrctime](VRC_bytime3.svg)
 *Total records of vehicle related crimes based on day/hour. Red - high amount, yellow - medium amount, blue - low amount*
 
 ### B.  Monthly 
-![totalvrcmonth](Total Vehicle Related Crimes (By Month).svg)
+![totalvrcmonth](TotalVehicleRelatedCrimes(ByMonth).svg)
 *Total records of vehicle related crimes based on month. Red - high amount, yellow - medium amount, blue - low amount*
 #### **Insights:** 
 - Hourly
