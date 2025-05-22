@@ -18,7 +18,7 @@
 
 # **Overview**
 
-California is ranked one of the top states in the US for vehicle related crimes such as vehicle thefts and burglaries from vehicles. During a recent trip to Los Angeles, California I witnessed a car break in during the day in a highly populated area making me incredibly concerned about my rental car with my belongings parked down the block. In my analysis I aim to answer three questions:
+California is ranked one of the top states in the US for vehicle related crimes such as vehicle thefts and burglaries from vehicles. During a recent trip to Los Angeles, California I witnessed a car break in during the day in a highly populated area making me incredibly concerned about my rental car with my belongings parked down the block. In my analysis I aim to answer four questions:
 
 1. **What are vehicle related crimes in Los Angeles?**
 2. **How common are vehicle related crimes in Los Angeles?**
