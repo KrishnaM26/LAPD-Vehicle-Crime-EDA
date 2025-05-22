@@ -121,7 +121,7 @@ There are 7 vehicle related crimes involving a parked motor vehicle, sedans and 
 
 # **Recommendation**
 
-Increasing police presence in areas Central, Pacific, Newton, 77th Street, N Hollywood, andNortheast every day around 12PM and Thursday - Saturday between 5 - 11PM could lower vehicle related crimes based on assumptions and observations made from the analytical analysis of Los Angeles, California crime data.
+Increasing police presence in areas Central, Pacific, Newton, 77th Street, N Hollywood, and Northeast every day around 12PM and Thursday - Saturday between 5 - 11PM could lower vehicle related crimes based on assumptions and observations made from the analytical analysis of Los Angeles, California crime data.
 
 
 
